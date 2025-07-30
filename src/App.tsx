@@ -44,8 +44,8 @@ function App() {
 
         {/* PENDIENTE: Envíe sus datos (apellidos, nombres y paralelo) como props del componente */}
         <Student
-          nombres='Carlos Joseph'
-          apellidos='Mera Jr'
+          nombres='Bruno Rafael'
+          apellidos='Romero Yagual'
           paralelo='1'
         ></Student>
 
